@@ -15,5 +15,6 @@ Final project for a graduate level Analytical Programming class. We quantitively
 [Python Mini-Projects](https://github.com/mark-kaplan-0/Projects/tree/main/Python%20Mini-Projects)
 
 A collection of four projects performed throughout an Analytical Programming class.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MLB Offensive Production Accross Positions](https://github.com/mark-kaplan-0/Projects/blob/main/Python%20Mini-Projects/1)%20MLB%20Offensive%20Production%20Accross%20Positions.ipynb) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A project to demenostrate skills in Exploratory Data Analysis Using Matplotlib & Seaborns. We evaluated how different different defensive positions compare with respect to their offensive contribution.
