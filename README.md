@@ -10,4 +10,5 @@ Abstract of research I performed in a joint Yeshiva University, Bar Ilan Univers
 [Analyzing the Effectiveness of Shifting in Major League Baseball](https://github.com/mark-kaplan-0/Projects/blob/main/Analyzing%20the%20Effectiveness%20of%20Shifting%20in%20Major%20League%20Baseball.ipynb)
 
 Final project for a graduate level Analytical Programming class. We quantitively assessed the effectiveness of a baseball defensive strategy entitled "shifting." We analyzed the effect of the shift on Batting Average on Balls in Play (BABIP) over several seasons, as well as on individual offensive stats during the 2017 season. We used several methods, including visual graphs, statistical comparisons, and machine learning methods. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hello
