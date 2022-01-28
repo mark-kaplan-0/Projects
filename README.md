@@ -26,6 +26,6 @@ Various tasks to demonstrate web scraping and API skills.
 Demonstrating text processing skills by converting a raw text file of chess tournament results to an organized CSV file containing: Player’s Name, Player’s State, Total Number of Points, Player’s Pre-Rating, and Average Pre Tournament Chess Rating of Opponents
 
 * [Predictive Analysis using scikit-learn](https://github.com/mark-kaplan-0/Projects/blob/main/Python%20Mini-Projects/Predictive%20Analysis%20using%20scikit-learn.ipynb):
-The goal of this project is to prepare data for predictive analysis and then construct a predictive model. The research question pursued was: Which attribute (i.e., aside from the poisonous/edible indicator) or attributes are the best predictors of whether a particular mushroom is poisonous or edible?
+The goal of this project was to prepare data for predictive analysis and then construct a predictive model. The research question pursued was: Which attribute (i.e., aside from the poisonous/edible indicator) or attributes are the best predictors of whether a particular mushroom is poisonous or edible?
 
 
