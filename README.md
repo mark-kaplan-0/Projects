@@ -1,2 +1,2 @@
 # Projects
-A collection of projects from various research projects and graduate level classes.
+## A collection of projects from various research projects and graduate level classes.
