@@ -22,5 +22,7 @@ A project to demenostrate skills in Exploratory Data Analysis Using Matplotlib &
 * [Working with HTML, JSON, Web Scraping, and Web APIs](https://github.com/mark-kaplan-0/Projects/blob/main/Python%20Mini-Projects/Working%20with%20HTML%2C%20JSON%2C%20Web%20Scraping%2C%20and%20Web%20APIs.ipynb):
 Various tasks to demonstrate web scraping and API skills. 
 
-* [Processing, Analyzing Chess Tournament Results](https://github.com/mark-kaplan-0/Projects/blob/main/Python%20Mini-Projects/Text%20Processing%2C%20Analyzing%20Chess%20Tournament%20Results.ipynb)
-* hello
+* [Processing, Analyzing Chess Tournament Results](https://github.com/mark-kaplan-0/Projects/blob/main/Python%20Mini-Projects/Text%20Processing%2C%20Analyzing%20Chess%20Tournament%20Results.ipynb):
+Demonstrating text processing skills by converting a raw text file of chess tournament results to an organized CSV file containing: Player’s Name, Player’s State, Total Number of Points, Player’s Pre-Rating, and Average Pre Tournament Chess Rating of Opponents
+
+
